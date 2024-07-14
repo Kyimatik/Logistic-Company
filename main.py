@@ -22,8 +22,8 @@ import time
 from openpyxl import Workbook, load_workbook
 
 
-admin_id = 6355200375
-TOKEN = "7352009164:AAHD84f31ubJwRvt9JX8AIuXeaSaY7bOSBw"
+admin_id = % 
+TOKEN = %
 
 bot = Bot(TOKEN)
 dp = Dispatcher()
